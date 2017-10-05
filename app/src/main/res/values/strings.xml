@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HiLoGame</string>
+    <string name="instruction">Please Pick a Number between 1 and 1000</string>
+    <string name="resetBtn">RESET</string>
+    <string name="guessBtn">GUESS</string>
+    <string name="yourNumber">Your Number Goes Here</string>
+    <string name="action_about">About</string>
+    <string name="ok">OK</string>
+    <string name="author" translatable="false">Yanming Meng (meng0028)</string>
+
+
+</resources>
